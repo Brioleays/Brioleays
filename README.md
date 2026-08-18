@@ -47,8 +47,8 @@ The goal isn't just to get a job. It's to reach the top 1% of builders and creat
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BRIOLEAYS&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BRIOLEAYS&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brioleays&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brioleays&layout=compact&theme=radical)
 
 ---
 
