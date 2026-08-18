@@ -1,71 +1,62 @@
-# 👋 Hi, I'm BRIOLEAYS
+# 👋 Hi, I'm Samuel Olakunde (BRIOLEAYS)
 
-> *"In the middle of chaos, I build clarity through code."*
+> *"I don't just make things work. I make them feel right."*
 
-I'm a passionate, curious, and evolving developer driven by the desire to **master technology across multiple dimensions**. My journey combines design, frontend mastery, deep learning, and even quantum computing — and I document every step right here.
+I'm a frontend UI architect and full-stack developer in training. My focus is deliberate: **master frontend depth first, then expand into backend, AI, and deep tech.**
 
----
-
-## 🧠 What I'm Learning
-
-| Field             | Focus Areas                                                                 | Duration      |
-|------------------|------------------------------------------------------------------------------|---------------|
-| ⚛️ Frontend Dev   | React, TailwindCSS, Vite, Animations, CSS Modules                           | 90 Days       |
-| 🧩 Backend Dev    | Node.js / FastAPI, REST APIs, Auth, File Uploads, MongoDB/PostgreSQL        | 90 Days       |
-| 🎨 Graphics Design| Banners, Flyers, Branding, Mockups using Canva, Figma, or Adobe Tools       | 90 Days       |
-| 🧬 ML + Quantum   | Pandas, Scikit-learn, Qiskit, Quantum Optimization & Hybrid Models           | 180+ Days     |
-
-I'm currently in my **Frontend sprint** and taking it one deliberate day at a time — **learning by building**, not just watching.
+I'm rebuilding my foundation from the ground up — no AI crutches, no tutorial hopping. Just real projects, built by hand, shipped one at a time.
 
 ---
 
-## 🔨 Projects (In Progress / Upcoming)
+## 🎯 Current Focus
 
-These are hands-on projects I'll use to apply everything I learn:
-
-| Status      | Project                     | Description                                      |
-|-------------|-----------------------------|--------------------------------------------------|
-| 🚧 In Progress | **Recipe Site**             | Built with React + Tailwind, first full layout   |
-| ⚙️ Upcoming   | **Church Website**           | UI/UX for worship & events                       |
-| ⚙️ Upcoming   | **E-commerce Platform**      | Focused on small businesses and entrepreneurs    |
-| ⚙️ Upcoming   | **Portfolio Site**           | Developer showcase with project timeline         |
-| 🧪 Research    | **Quantum Biometric System** | Final year project exploring QML in security     |
-
-> All projects are either in early setup or being actively built. You can follow along in my commits and repos.
+| Field | Status | What I'm Building |
+|---|---|---|
+| **Frontend Mastery** | In progress | Vanilla JS, state-driven architecture, UI systems |
+| **Product Design** | In progress | Wireframing, state diagrams, component trees |
+| **Backend (Node.js/Go)** | Next | REST APIs, PostgreSQL, high-performance services |
+| **AI/ML (Python)** | Phase 2 | Model integration, AI-powered products |
+| **WebXR / AR / VR** | Phase 4 | Spatial interfaces for deep tech |
 
 ---
 
-## 📘 Tracking the Journey
+## 🛠️ Projects Built (No Frameworks, No AI)
 
-- ✅ [Learning Roadmap PDF](#) (tickable, structured plan)
-- 🗓️ Day-by-day GitHub commits & updates
-- 🗒️ Offline journaling in jotter for discipline
-- ☁️ Remote and local setup for flexible dev
+| Status | Project | What It Proves |
+|---|---|---|
+| ✅ Complete | **Counter** | State-driven rendering, localStorage |
+| ✅ Complete | **Simon Says Game** | Async timing, event delegation, state machines |
+| ✅ Complete | **Weather Dashboard** | API integration, async fetch, error handling |
+| 🚧 In Progress | **Kanban Task Board** | Full independence — filtering, dynamic rendering, WIP limits |
+| ⚙️ Upcoming | **Full-Stack App** | Node.js + PostgreSQL + deployed product |
+
+> Every project is built from scratch. No frameworks. No AI code generation. Just vanilla JavaScript and discipline.
+
+---
+
+## 🧭 The Blueprint
+
+I'm following a T-shaped learning model:
+
+- **Deep Vertical:** Frontend UI architecture and product design.
+- **Broad Horizontals:** Backend engineering, AI/ML, and eventually WebXR.
+
+The goal isn't just to get a job. It's to reach the top 1% of builders and create products that don't exist yet.
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BRIOLEAYS&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BRIOLEAYS&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brioleays&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brioleays&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
 
-I'm building publicly and learning openly. Feel free to reach out, collaborate, or just follow the journey:
-
-- GitHub: [@BRIOLEAYS](https://github.com/BRIOLEAYS)
+- GitHub: [@Brioleays](https://github.com/Brioleays)
 - LinkedIn: Coming Soon 🚀
 
 ---
 
-## ☕ Legacy in Progress
-
-This isn't just about learning how to code.  
-It's about designing a **life of impact** — one that’s intentional, creative, and technically excellent.
-
 > **"Build systems, not just skills."**
-
----
-
