@@ -65,9 +65,6 @@ This is my public record of what I'm building and what I'm learning.
 | Array methods (reduce) | 🚧 Learning now | Expense Tracker |
 
 ---
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brioleays&show_icons=true&theme=radical)
----
 ## 📫 Connect
 
 - GitHub: [@Brioleays](https://github.com/Brioleays)
