@@ -45,6 +45,7 @@ This is my public record of what I'm building and what I'm learning.
 
 ### [Personal Expense Tracker](./self-improvement-project-based-learning/expense-tracker/) (🚧 Coming soon)
 **What it will do:** An expense management and financial accountability page that helps you see spending patterns, make corrections, and track savings.
+
 **What I'll learn:** Async/Await (with 80% independence from AI), Scope Awareness, Separation of Concerns, Dynamic Dropdowns, Currency Conversion Logic, Calculations with Reduce, Red/Green Indicators.
 ---
 
