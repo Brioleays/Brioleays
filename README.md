@@ -34,26 +34,33 @@ This is my public record of what I'm building and what I'm learning.
 **What I learned:** Async/await, API integration, localStorage for persistence.
 
 ### [Kanban Board](link) (Done)
+
 **What it does:** A task management board where tasks can be moved between columns using buttons.
-**What I learned:** Complex state management, WIP limits, persistent storage and some functional programming methods like find some and filter and creation of multi form components.
+
+**What I learned:** Complex state management, WIP limits, persistent storage, and functional programming methods like `.find()`, `.some()`, and `.filter()`. Also built multi-form components (main form + popup form) though i think there is still more to know about them.
 
 ### [Personal Expense Tracker](link) (Coming soon)
 
-**What it will do:* A expense management and financial accountability page that make you see the errors made and make corrections in the next times you fine your self and also to track savings
-*What I will learn:* Async/Await (with 80% independence from AI),Scope Awareness, Separation of Concerns, Dynamic Dropdowns (Dynamic dropdowns), Currency Conversion Logic, Calculations with Reduce,  Red/Green Indicators
+**What it will do:** An expense management and financial accountability page that helps you see spending patterns, make corrections, and track savings.
+
+**What I'll learn:** Async/Await (with 80% independence from AI), Scope Awareness, Separation of Concerns, Dynamic Dropdowns, Currency Conversion Logic, Calculations with Reduce, Red/Green Indicators
 ---
 
 ## 📊 What I'm Currently Learning
 
 | Concept | Status | Project |
 |---------|--------|---------|
-| State management | ✅ Comfortable | Counter, Simon Says, Weather |
-| Event delegation | ✅ Comfortable | Simon Says, Weather |
+| State management | ✅ Comfortable | All projects |
+| Event delegation | ✅ Comfortable | Simon Says, Weather, Kanban |
 | DOM manipulation | ✅ Comfortable | All projects |
-| Async/await | 🚧 Building confidence | Weather Dashboard |
-| localStorage | 🚧 Building confidence | Counter, Simon Says, Weather |
-| Array methods | 🚧 Building confidence | Weather Dashboard |
+| Async/await | 🚧 Building independence | Expense Tracker |
+| localStorage | 🚧 Getting there | All projects |
+| Array methods (filter, find, some) | ✅ Comfortable | Weather, Kanban |
+| Array methods (reduce) | 🚧 Learning now | Expense Tracker |
 
+---
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brioleays&show_icons=true&theme=radical)
 ---
 ## 📫 Connect
 
