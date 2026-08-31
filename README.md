@@ -33,10 +33,13 @@ This is my public record of what I'm building and what I'm learning.
 **What it does:** Search cities and display current weather conditions.
 **What I learned:** Async/await, API integration, localStorage for persistence.
 
-### [Kanban Board](link) (Coming soon)
-**What it will do:** A task management board where tasks can be moved between columns using buttons.
-**What I'll learn:** Complex state management, WIP limits, persistent storage.
+### [Kanban Board](link) (Done)
+**What it does:** A task management board where tasks can be moved between columns using buttons.
+**What I learned:** Complex state management, WIP limits, persistent storage and some functional programming methods like find some and filter and creation of multi form components.
 
+### [Personal Expense Tracker](link) (Coming soon)
+**What it will do:** A expense management and financial accountability page that make you see the errors made and make corrections in the next times you fine your self and also to track savings
+**What I will learn:** Async/Await (with 80% independence from AI),Scope Awareness, Separation of Concerns, Dynamic Dropdowns (Dynamic dropdowns), Currency Conversion Logic, Calculations with Reduce,  Red/Green Indicators
 ---
 
 ## 📊 What I'm Currently Learning
