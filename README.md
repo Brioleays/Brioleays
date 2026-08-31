@@ -39,8 +39,8 @@ This is my public record of what I'm building and what I'm learning.
 
 ### [Personal Expense Tracker](link) (Coming soon)
 
-**What it will do:** A expense management and financial accountability page that make you see the errors made and make corrections in the next times you fine your self and also to track savings
-**What I will learn:** Async/Await (with 80% independence from AI),Scope Awareness, Separation of Concerns, Dynamic Dropdowns (Dynamic dropdowns), Currency Conversion Logic, Calculations with Reduce,  Red/Green Indicators
+**What it will do:* A expense management and financial accountability page that make you see the errors made and make corrections in the next times you fine your self and also to track savings
+*What I will learn:* Async/Await (with 80% independence from AI),Scope Awareness, Separation of Concerns, Dynamic Dropdowns (Dynamic dropdowns), Currency Conversion Logic, Calculations with Reduce,  Red/Green Indicators
 ---
 
 ## 📊 What I'm Currently Learning
