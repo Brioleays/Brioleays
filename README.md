@@ -7,7 +7,13 @@ I'm a frontend developer rebuilding my JavaScript fundamentals from scratch.
 This is my public record of what I'm building and what I'm learning.
 
 ---
+## 🎯 Current Focus
 
+- Project 5: Personal Expense Tracker
+- Next: Node.js backend
+- Client work: Portfolio site for a designer (Phased delivery)
+
+---
 ## 🗺️ Where I Am Right Now
 
 | Phase | Focus | Status |
