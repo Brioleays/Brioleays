@@ -47,10 +47,11 @@ This is my public record of what I'm building and what I'm learning.
 
 **What I learned:** Complex state management, WIP limits, persistent storage, and functional programming methods like `.find()`, `.some()`, and `.filter()`. Also built multi-form components (main form + popup form) though I think there is still more to know about them.
 
-### [Personal Expense Tracker](./self-improvement-project-based-learning/expense-tracker/) (🚧 Coming soon)
-**What it will do:** An expense management and financial accountability page that helps you see spending patterns, make corrections, and track savings.
+### [Personal Expense Tracker](./expense-tracker/) (✅ Done)
 
-**What I'll learn:** Async/Await (with 80% independence from AI), Scope Awareness, Separation of Concerns, Dynamic Dropdowns, Currency Conversion Logic, Calculations with Reduce, Red/Green Indicators.
+**What it does:** An expense management and financial accountability page that helps you see spending patterns, make corrections, and track savings.
+
+**What I learned:** Async/await with live API integration, `reduce` for summing with conditional logic, object counting for highest category, `Object.keys()` + `forEach` for iteration, multi-field filtering, and reading the console before asking for help. Still building independence on data transformation patterns.
 
 ---
 
